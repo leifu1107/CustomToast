@@ -16,16 +16,13 @@
 		}
 	}
 ```
----------
-  /app/build.gradle
-  
-  ```java
-  dependencies {
+/app/build.gradle
+  ```java
+  	dependencies {
 	        compile 'com.github.leifu1107:CustomToast:1.0'
 	}
-  ```
-  
-  
+
+```
 #### Step 2.建议在Application中初始化
 ```java
 **
