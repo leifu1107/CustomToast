@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="ERROR_COLOR">#FD4C5B</color>
+    <color name="SUCCESS_COLOR">#388E3C</color>
+    <color name="INFO_COLOR">#3F51B5</color>
+    <color name="WARNING_COLOR">#FFA900</color>
+    <color name="hot_pink">#FD4C5B</color>
+</resources>
