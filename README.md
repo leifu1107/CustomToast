@@ -39,3 +39,11 @@ public class App extends Application {
     }
 }
 ```
+#### Step 3.Activity中直接使用
+```java
+   CustomToast.error("这是一个提示错误的Toast！");
+   CustomToast.success("这是一个成功Toast！);
+   CustomToast.info("这是一个信息的Toast！");
+   CustomToast.warning("这是一个警告的Toast！");
+   CustomToast.normal("这是一个普通的Toast！");
+ ```
